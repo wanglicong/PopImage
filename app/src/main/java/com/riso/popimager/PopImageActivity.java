@@ -28,7 +28,7 @@ public class PopImageActivity extends Activity {
 
 
 
-        //更多 可选  设置 ======    ===========================
+        //更多 可选  设置 ======      ===========================
        /* popImage.setAnimSpeed(500); //设置 子弹 的速度
         popImage.setColseSound(true); //设置声音 关闭
         popImage.setLOCATION(1f); //设置 出现的 位置 左边
