@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:oneshot="false"
+    >
+     <item android:drawable="@drawable/baozha21"  android:duration="80"/>
+     <item android:drawable="@drawable/baozha22"  android:duration="80"/>
+     <item android:drawable="@drawable/baozha23"  android:duration="80"/>
+     <item android:drawable="@drawable/baozha24"  android:duration="80"/>
+     <item android:drawable="@drawable/baozha25"  android:duration="80"/>
+</animation-list>
