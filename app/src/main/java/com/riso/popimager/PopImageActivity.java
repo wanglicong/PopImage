@@ -2,11 +2,11 @@ package com.riso.popimager;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
-import android.widget.Toast;
+
+import com.riso.popimagelibs.PopImage;
 
 public class PopImageActivity extends Activity {
 
@@ -46,7 +46,7 @@ public class PopImageActivity extends Activity {
 
             @Override
             public void txOnTouch(View view, MotionEvent motionEvent) {
-
+                // iv = (ImageView) findViewById(R.id.iv)的触摸事件
             }
         });*/
 

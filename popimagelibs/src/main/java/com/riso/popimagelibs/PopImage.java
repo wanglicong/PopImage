@@ -1,4 +1,4 @@
-package com.riso.popimager;
+package com.riso.popimagelibs;
 
 import android.content.Context;
 import android.graphics.drawable.AnimationDrawable;
